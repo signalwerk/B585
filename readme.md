@@ -26,6 +26,7 @@ From xerox.com [Download Driver](http://www.support.xerox.com/support/workcentre
 IP: 192.168.1.200
 Name (doesn't matter): B585 – Xerox 7328
 Queue: lp
+Protocol: LPD
 ```
 
 <hr>
