@@ -22,6 +22,11 @@ From xerox.com [Download Driver](http://www.support.xerox.com/support/workcentre
 
 ### IP settings
 ![ip settings](./img/ipsettings.png)
+```
+IP: 192.168.1.200
+Name (doesn't matter): B585 – Xerox 7328
+Queue: lp
+```
 
 <hr>
 
